@@ -1,0 +1,24 @@
+>> Start
+plotHist
+dataInBoth
+1:  0 
+2:  0 
+plotHist on to plot
+
+>> Click on 2nd
+plotHist
+dataInBoth
+1:  0 
+2:  1 
+dataInBoth if inDataGen2
+dataIn2
+plotHist on to plot
+
+>> Click on 1st
+plotHist
+dataInBoth
+1:  1 
+2:  1 
+dataInBoth if inDataGen1
+dataIn1
+plotHist on to plot
