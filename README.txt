@@ -13,7 +13,7 @@ You will see that input action button inDataGen2 is ignored once
 The morale of this example app is to use direct retrieval of inputs 
    to guarantee they are available for if else logic checks
 
-![alt tag](./images/reactives-used-if-else-logic-shiny.png)
+![alt tag](/images/reactives-used-if-else-logic-shiny.png)
 
 License: MIT License
 Attribution, package authors for shiny on CRAN.
